@@ -144,7 +144,7 @@ REFUELLING TRUCK MUTEX -- point out:
 
 ```text
 [Thread-Refuel-Plane-2]  RefuellingTruck: Plane-2 waiting for fuel truck...
-[Thread-Refuel-Plane-3]  RefuellingTruck: Refuelling complete for Plane-2.
+[Thread-Refuel-Plane-2]  RefuellingTruck: Refuelling complete for Plane-2.
 [Thread-Refuel-Plane-3]  RefuellingTruck: Refuelling Plane-3...
 ```
 Say: "Plane-3 must wait until Plane-2 finishes -- only one truck, protected
